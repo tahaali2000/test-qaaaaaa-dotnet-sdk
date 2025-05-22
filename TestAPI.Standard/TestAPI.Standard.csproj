@@ -9,13 +9,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>TestQaaaaaaSDK</AssemblyName>
-    <Version>1.3.3.0</Version>
+    <Version>1.2.3.0</Version>
     <Authors>Taha</Authors>
     <Owners></Owners>
     <Product>TestAPI.Standard</Product>
     <Copyright>Copyright ©  2019</Copyright>
-    <AssemblyVersion>1.3.3.0</AssemblyVersion>
-    <FileVersion>1.3.3.0</FileVersion>
+    <AssemblyVersion>1.2.3.0</AssemblyVersion>
+    <FileVersion>1.2.3.0</FileVersion>
     <Description>test</Description>
     <LangVersion>7.3</LangVersion>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
